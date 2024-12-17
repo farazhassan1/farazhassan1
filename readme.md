@@ -2,7 +2,7 @@
 
 I'm a passionate **Web Developer** 🕸️ with experience building dynamic and efficient web applications. I enjoy working on backend development, integrating complex APIs, and creating smooth, responsive user interfaces.
 
-![Profile Views](https://komarev.com/ghpvc/?username=faraz-hassan&label=PROFILE+VIEWS&style=flat-square&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=farazhassan1&label=PROFILE+VIEWS&style=flat-square&color=blue)
 
 ## 🛠️ Technologies & Tools
 

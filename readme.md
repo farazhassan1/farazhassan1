@@ -1,10 +1,12 @@
-# Hi, I'm Faraz Hassan!
+# Hi, I'm Faraz Hassan!  
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px" />
 
 I'm a passionate **Web Developer** 🕸️ with experience building dynamic and efficient web applications. I enjoy working on backend development, integrating complex APIs, and creating smooth, responsive user interfaces.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=farazhassan1&label=PROFILE+VIEWS&style=flat-square&color=blue)
 
-## 🛠️ Technologies & Tools
+## 🛠️ Technologies & Tools  
+<img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="80px" />
 
 <p align="left">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
@@ -18,12 +20,13 @@ I'm a passionate **Web Developer** 🕸️ with experience building dynamic and 
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
 </p>
 
-## 🚀 Projects
+## 🚀 Projects  
+<img src="https://media.giphy.com/media/5GoVLqeAOo6PK/giphy.gif" width="50px" />
 
 - **[JoeMama Random Jokes](https://github.com/farazhassan1/joemama)**: Built using Laravel and Bootstrap, this project helps [Throw JoeMama Jokes at your friends].
 
-
-## 🔥 GitHub Stats
+## 🔥 GitHub Stats  
+<img src="https://media.giphy.com/media/l1J9EdzfOSgfyueLm/giphy.gif" width="120px" />
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=farazhassan1&show_icons=true&theme=radical" alt="GitHub Stats" />
@@ -31,13 +34,12 @@ I'm a passionate **Web Developer** 🕸️ with experience building dynamic and 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farazhassan1&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-## 💼 Experience
+## 💼 Experience  
 
-- **Web Developer** – Developed high-performance applications with RESTful APIs, optimized MySQL queries, and built reusable components using Tailwind and Bootstrap.
+- **Web Developer** – Developed high-performance applications with RESTful APIs, optimized MySQL queries, and built reusable components using Tailwind and Bootstrap.  
 - **Front-End Development** – Designed responsive UIs with Bootstrap and Tailwind, ensuring compatibility across devices.
 
-## 📫 Let's Connect
-
+## 📫 Let's Connect  
 <p align="left">
   <a href="https://www.linkedin.com/in/faraz-hassan-b55b56198/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://plaguestudios.net/faraz-portfolio"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" /></a>

@@ -1,5 +1,5 @@
 # Hi, I'm Faraz Hassan!  
-<img src="https://media.giphy.com/media/Ju7l5yZx2GZ6A/giphy.gif" width="100px" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTNqdjJ2dHcxZGh5emI4YjJ3eDJ6cXdtZjYwOThhOGJjNzlqazJvbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HgwGsXF0aiGY/giphy.gif" width="100px" />
 
 
 I'm a passionate **Web Developer** 🕸️ with experience building dynamic and efficient web applications. I enjoy working on backend development, integrating complex APIs, and creating smooth, responsive user interfaces.

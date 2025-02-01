@@ -22,7 +22,7 @@ I'm a passionate **Web Developer** 🕸️ with experience building dynamic and 
 </p>
 
 ## 🚀 Projects  
-<img src="https://media.giphy.com/media/5GoVLqeAOo6PK/giphy.gif" width="300px" />
+<img src="https://media.giphy.com/media/143vPc6b08locw/giphy.gif?cid=ecf05e47i894crp37h6e88xdg6il9cwx8yk7cq8psqka7311&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300px" />
 
 - **[JoeMama Random Jokes](https://github.com/farazhassan1/joemama)**: Built using Laravel and Bootstrap, this project helps [Throw JoeMama Jokes at your friends].
 

@@ -6,7 +6,7 @@ I'm a passionate **Web Developer** 🕸️ with experience building dynamic and 
 ![Profile Views](https://komarev.com/ghpvc/?username=farazhassan1&label=PROFILE+VIEWS&style=flat-square&color=blue)
 
 ## 🛠️ Technologies & Tools  
-<img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="80px" />
+<img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="200px" />
 
 <p align="left">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />

@@ -42,8 +42,8 @@ I'm a passionate **Web Developer** 🕸️ with experience building dynamic and 
 
 ## 📫 Let's Connect  
 <p align="left">
+  <a href="https://farazhassan.dev"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/faraz-hassan-b55b56198/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://plaguestudios.net/faraz-portfolio"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" /></a>
 </p>
 
 ---

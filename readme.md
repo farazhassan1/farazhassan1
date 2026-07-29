@@ -1,51 +1,119 @@
-# Hi, I'm Faraz Hassan!  
+# Hi 👋, I'm Faraz Hassan
 
+### Senior Laravel Engineer | PHP | Laravel | React | Inertia.js | Scalable SaaS Applications
 
-I'm a passionate **Web Developer** 🕸️ with experience building dynamic and efficient web applications. I enjoy working on backend development, integrating complex APIs, and creating smooth, responsive user interfaces.
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTNqdjJ2dHcxZGh5emI4YjJ3eDJ6cXdtZjYwOThhOGJjNzlqazJvbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HgwGsXF0aiGY/giphy.gif" width="500px" />
+I'm a software engineer with 5+ years of experience building production-grade web applications using Laravel and modern JavaScript technologies.
 
-![Profile Views](https://komarev.com/ghpvc/?username=farazhassan1&label=PROFILE+VIEWS&style=flat-square&color=blue)
+I enjoy solving backend challenges, designing scalable architectures, improving developer experience, and building software that remains maintainable as products grow.
 
-## 🛠️ Technologies & Tools  
-<img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="200px" />
+## 🚀 What I Work With
 
-<p align="left">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
-</p>
+### Backend
+- PHP 8.x
+- Laravel 10 / 11 / 12
+- REST APIs
+- Queue-driven architectures
+- Laravel Queues & Horizon
+- Laravel Reverb
+- Broadcasting & WebSockets
+- Multi-tenant applications
+- Authentication & Authorization
+- Background Jobs
+- Event-driven systems
+- Task Scheduling
 
-## 🚀 Projects  
-<img src="https://media.giphy.com/media/143vPc6b08locw/giphy.gif?cid=ecf05e47i894crp37h6e88xdg6il9cwx8yk7cq8psqka7311&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300px" />
+### Frontend
+- React
+- Inertia.js
+- JavaScript
+- TypeScript (Learning)
+- Tailwind CSS
+- Bootstrap
 
-- **[JoeMama Random Jokes](https://github.com/farazhassan1/joemama)**: Built using Laravel and Bootstrap, this project helps [Throw JoeMama Jokes at your friends].
+### Database & Infrastructure
+- MySQL
+- Redis
+- Nginx
+- Linux
+- Supervisor
+- Git
+- Docker (Learning)
+- CI/CD
+- VPS Deployment
 
-## 🔥 GitHub Stats  
-<img src="https://media.giphy.com/media/l1J9EdzfOSgfyueLm/giphy.gif" width="120px" />
+### Testing & Quality
+- Pest
+- PHPUnit
+- Feature Testing
+- Integration Testing
+- Debugging Production Issues
+
+---
+
+## 💼 Experience
+
+### Senior Laravel Developer
+
+I build and maintain large-scale SaaS applications with a focus on reliability, scalability and clean architecture.
+
+Some of my recent work includes:
+
+- Designing scalable backend features using Laravel
+- Building queue-based asynchronous workflows
+- Developing real-time features using Laravel Reverb
+- Integrating third-party APIs including payment and accounting platforms
+- Building secure authentication and authorization systems
+- Optimising database performance and application response times
+- Writing automated tests for critical business workflows
+- Deploying and maintaining production applications on Linux servers
+- Troubleshooting complex production issues
+- Collaborating with cross-functional teams to deliver business-critical features
+
+---
+
+## 🛠 Featured Projects
+
+### JoeMama Random Jokes
+
+A fun Laravel application that delivers random "Joe Mama" jokes.
+
+**Tech Stack**
+
+- Laravel
+- Bootstrap
+
+🔗 https://github.com/farazhassan1/joemama
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=farazhassan1&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=farazhassan1&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farazhassan1&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-## 💼 Experience  
-
-- **Web Developer** – Developed high-performance applications with RESTful APIs, optimized MySQL queries, and built reusable components using Tailwind and Bootstrap.  
-- **Front-End Development** – Designed responsive UIs with Bootstrap and Tailwind, ensuring compatibility across devices.
-
-## 📫 Let's Connect  
-<p align="left">
-  <a href="https://farazhassan.dev"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/faraz-hassan-b55b56198/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=farazhassan1&show_icons=true&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=farazhassan1&theme=github-dark&hide_border=true" />
 </p>
 
 ---
 
-Feel free to reach out for collaboration or to discuss tech-related topics!
+## 🌱 Currently Learning
+
+- System Design
+- Distributed Systems
+- Event-Driven Architecture
+- AWS
+- Docker & Kubernetes
+- Elasticsearch
+- Rust
+
+---
+
+## 🤝 Connect With Me
+
+🌐 Portfolio: https://farazhassan.dev
+
+💼 LinkedIn:  
+https://www.linkedin.com/in/faraz-hassan-b55b56198/
+
+---
+
+> "First make it work. Then make it clean. Then make it scale."
